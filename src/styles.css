@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~rappid/build/rappid.min.css";
+
+@import "~rappid/KitchenSink/css/freetransform.css";
+@import "~rappid/KitchenSink/css/halo.css";
+@import "~rappid/KitchenSink/css/inspector.css";
+@import "~rappid/KitchenSink/css/layout.css";
+@import "~rappid/KitchenSink/css/navigator.css";
+@import "~rappid/KitchenSink/css/paper.css";
+@import "~rappid/KitchenSink/css/selection.css";
+@import "~rappid/KitchenSink/css/statusbar.css";
+@import "~rappid/KitchenSink/css/stencil.css";
+@import "~rappid/KitchenSink/css/style.css";
+@import "~rappid/KitchenSink/css/toolbar.css";
+
+@import "app/shared/fontawesome/css/font-awesome.css";
